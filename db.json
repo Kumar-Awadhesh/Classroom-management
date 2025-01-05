@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Awadhesh",
+      "lastName": "Kumar",
+      "email": "kumar@123"
+    },
+    {
+      "id": 2,
+      "firstName": "Abhay",
+      "lastName": "Kumar",
+      "email": "kumar@1234"
+    }
+  ],
+  "classes": [
+    {
+      "name": "12th",
+      "subject": "Mathematics",
+      "teacherName": "Natasha Grahem",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "name": "Bsc",
+      "subject": "Botany",
+      "teacherName": "Frank patt",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "enrollment": [
+    {
+      "id": 1,
+      "firstName": "Awadhesh",
+      "lastName": "Kumar",
+      "email": "kumar@123"
+    },
+    {
+      "id": 2,
+      "firstName": "Abhay",
+      "lastName": "Kumar",
+      "email": "kumar@1234"
+    }
+  ]
+}
